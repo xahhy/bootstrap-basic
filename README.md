@@ -24,11 +24,11 @@
 
 ### 输出结果
 
-将代码库地址提交到「暑期特训营练习收」：[https://shimo.im/sheet/bF2uUgo3PmUuhgz9/gdQxZ/](https://shimo.im/sheet/bF2uUgo3PmUuhgz9/gdQxZ/)
+将代码库地址提交到「暑期特训营练习收集」：[https://shimo.im/sheet/bF2uUgo3PmUuhgz9/gdQxZ/](https://shimo.im/sheet/bF2uUgo3PmUuhgz9/gdQxZ/)
 
 ## 如何开始：
 
-1. git clone https://github.com/goooooouwa/bootstrap-resume-starting-point.git
+1. `git clone https://github.com/goooooouwa/bootstrap-resume-starting-point.git`
 2. 打开并修改index.html，完成练习。
 
 ## 学习资源

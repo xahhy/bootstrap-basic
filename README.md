@@ -28,7 +28,7 @@
 
 ## 如何开始：
 
-1. `git clone git@github.com:tws-practice/bootstrap-basic.git`
+1. `git clone https://github.com/tws-practice/bootstrap-basic.git`
 2. 打开并修改index.html，完成练习。
 
 ## 学习资源
